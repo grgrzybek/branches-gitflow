@@ -1,0 +1,16 @@
+total 56
+drwxrwxr-x.  3 ggrzybek ggrzybek 4096 Apr  4 16:24 .
+drwxrwxr-x. 15 ggrzybek ggrzybek 4096 Apr  4 15:15 ..
+-rw-rw-r--.  1 ggrzybek ggrzybek    3 Apr  4 16:18 another-file
+drwxrwxr-x.  8 ggrzybek ggrzybek 4096 Apr  4 16:24 .git
+-rw-rw-r--.  1 ggrzybek ggrzybek    2 Apr  4 16:23 info
+-rw-rw-r--.  1 ggrzybek ggrzybek    0 Apr  4 16:24 ls-la.txt
+-rw-rw-r--.  1 ggrzybek ggrzybek    2 Apr  4 16:24 new-file
+-rw-rw-r--.  1 ggrzybek ggrzybek   37 Apr  4 15:05 readme.md
+-rw-rw-r--.  1 ggrzybek ggrzybek    5 Apr  4 16:24 test
+-rw-rw-r--.  1 ggrzybek ggrzybek   21 Apr  4 16:18 version.md
+-rw-rw-r--.  1 ggrzybek ggrzybek   58 Apr  4 16:17 work
+-rw-rw-r--.  1 ggrzybek ggrzybek   26 Apr  4 16:17 work2
+-rw-rw-r--.  1 ggrzybek ggrzybek   28 Apr  4 16:23 work3
+-rw-rw-r--.  1 ggrzybek ggrzybek    2 Apr  4 16:24 x
+-rw-rw-r--.  1 ggrzybek ggrzybek    2 Apr  4 16:18 y
